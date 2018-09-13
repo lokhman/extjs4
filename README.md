@@ -1,2 +1,2 @@
-# extjs4
-Open source version of ExtJS 4.2.1
+# ExtJS 4.2.1
+Open source version of ExtJS 4.2.1.883
